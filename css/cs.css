@@ -1,0 +1,57 @@
+body{
+	/*background-color: #c1c1c1;*/
+	/*background-image: url("../img/bg1.jpg");*/
+
+	/*background-image: url("../img/cart3.jpg");*/
+}
+
+.panel .panel-heading{
+	background-color: #d1d1d1;
+}
+.navbar-inverse{
+	background-color:#D18F17;
+	border-color:#a29b06 !important;
+}
+.navbar{
+	border-color: #;
+	
+}
+.navbar-inverse .navbar-nav > li > a
+{
+	color:#fff;
+	/*border:2px solid #d3ab08;*/
+}
+.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover{
+	
+}
+
+
+.navbar-inverse .navbar-brand{
+	color:#fff !important;
+}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    
+    background-color: #0b4a8e;
+}
+.panel-body{
+	background-color: rgba(100,100,100,0.1) !important;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+    color: #fff;
+    background-color: #C68B1F;
+}
+.container-fluid{
+	background-color: rgba(100,100,100,0.1) !important;
+}
+
+.nav-pills >li>a{
+	font-family: "Times New Roman";
+	color:#131bb3;
+	font-size: 19px;
+}
+.nav-pills >li>a:hover{
+	color:#ff6e05;;
+}
+.navactive{
+	border-top: 3px solid #fff;
+}

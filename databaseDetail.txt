@@ -1,0 +1,27 @@
+                    Sale Table :
+id,
+date,
+order_id,
+detail,
+name,
+quantity,
+price/unit,
+total,
+p_id
+
+                    Purchase Table :
+id,
+date,
+order_id,
+detail,
+name,
+quantity,
+price/unit,
+
+
+                  detail:
+order_id
+total,
+payment,
+remaining
+
